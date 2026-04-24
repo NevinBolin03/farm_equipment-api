@@ -1,3 +1,5 @@
+// CRUD routes for maintenance records
+
 const express = require("express");
 const router = express.Router();
 const { MaintenanceRecord } = require("../models");
