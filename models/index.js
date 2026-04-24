@@ -1,3 +1,5 @@
+// Sequelize initialization and model relationships
+
 const { Sequelize, DataTypes } = require("sequelize");
 require("dotenv").config();
 
