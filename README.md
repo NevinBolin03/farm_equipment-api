@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Farm Equipment API
 
 ## Overview
@@ -13,3 +14,7 @@ This project is a RESTful API for managing farms, equipment, and maintenance rec
 ## Setup Instructions
 
 1. Clone the repository:
+=======
+## Author
+Nevin Bolin
+8c749b7 (Add author section to README)
